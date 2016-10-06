@@ -1,0 +1,20 @@
+/* Add your CSS below */
+
+/* Example: adding a background color to the HTML body */
+#home {
+  font-weight: bold;
+  color: #OC4567;
+}
+#pageTwo {
+  font-weight: bold;
+  color: #a0cf67;
+}
+.content {
+  font-size: 18px;
+  color: black;
+  font-family: serif;
+  width: 80%;
+}
+nav {
+  font-size: 20px;
+}
